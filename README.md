@@ -39,7 +39,9 @@ Borrow out = A'Bin + A'B + BBin
 **Truthtable**
 
 
-![318401808-c06bba9c-9c1e-4e92-a1e3-869583ce44c7](https://github.com/user-attachments/assets/690aa854-4a47-4463-ac75-e300aa0910e4)
+![WhatsApp Image 2025-04-23 at 14 17 22_bd8c8f56](https://github.com/user-attachments/assets/f5561a71-51c9-4bc7-a5b0-301d696d8631)
+![WhatsApp Image 2025-04-23 at 14 17 36_a45dba96](https://github.com/user-attachments/assets/84b92f74-9d3c-490b-8613-3598bdd4b4ad)
+
 
 
 **Procedure**
